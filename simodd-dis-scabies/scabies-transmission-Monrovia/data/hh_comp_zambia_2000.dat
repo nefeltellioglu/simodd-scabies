@@ -1,0 +1,18 @@
+# bootstrap household composition for zambia 2000  
+# household size distribution estimated from 
+# Housing and Household Characteristics Analytical Report  
+# 2000 Census of Population and Housing  
+# required merging female-headed and male-headed data series  
+# children/adult split very simplistically assumes:
+# Single hh, Couple hh, Couple + Kids  
+0.0 15
+0.09098495018679 0 1
+0.11428590824946 0 2
+0.1449644311871 1 2
+0.14807660681229 2 2
+0.13281121756252 3 2
+0.10973461075023 4 2
+0.08522435125038 5 2
+0.06060191612535 6 2
+0.04035704587527 7 2
+0.07295896200061 8 2
